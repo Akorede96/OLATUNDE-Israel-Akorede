@@ -14,6 +14,8 @@ Hey there! 👋 I'm OLATUNDE Israel Akorede, and I'm passionate about harnessing
 
 - 🗣️ **Public Health Advocacy**: I'm an advocate for data-driven decision-making in public health, emphasizing the importance of informed policy changes to improve the well-being of communities.
 
+![Data Analysis](assets/img/Data_Analysis.jpg)
+
 #### 💼 What I've Been Up To:
 
 - 🏥 Worked with School groups on fieldwork as a Data Analyst, where I able to get relevant informations about a particular community to the diseases contributing to there well being and tarkling them.
